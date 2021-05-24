@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="EvaluacionSumativa2EAR">
+        <wb-resource deploy-path="/" source-path="/EarContent" tag="defaultRootSource"/>
+        <dependent-module archiveName="EvaluacionSumativa2Model.jar" deploy-path="/" handle="module:/resource/EvaluacionSumativa2Model/EvaluacionSumativa2Model">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="EvaluacionSumativa2Web.war" deploy-path="/" handle="module:/resource/EvaluacionSumativa2Web/EvaluacionSumativa2Web">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>
